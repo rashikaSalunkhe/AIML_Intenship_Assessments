@@ -1,0 +1,3 @@
+Name: rashika, Daily Goal: Learn Python file handling
+Name: rashika, Daily Goal: Practice ML concepts
+Name: rashika, Daily Goal: Push project to GitHub
