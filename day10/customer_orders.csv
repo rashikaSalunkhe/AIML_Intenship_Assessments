@@ -1,0 +1,9 @@
+order_id,customer_name,product,quantity,price
+101.0,Ravi,Laptop,1.0,50000.0
+102.0,Anita,Phone,2.0,20000.0
+103.0,John,Tablet,,15000.0
+104.0,Meena,Laptop,1.0,
+,Arjun,Phone,3.0,18000.0
+106.0,Sara,Tablet,2.0,16000.0
+107.0,David,Laptop,1.0,52000.0
+107.0,David,Laptop,1.0,52000.0

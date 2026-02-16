@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,date
+201,Ravi,Laptop,1,$50000,2026-02-01
+202,Anita,Phone,2,$20000,2026-02-03
+203,John,Tablet,1,$15000,2026-02-05
+204,Meena,Laptop,3,$45000,2026-02-07
+205,Arjun,Phone,2,$18000,2026-02-10
